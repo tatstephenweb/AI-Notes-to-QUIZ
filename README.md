@@ -1,5 +1,5 @@
 # AI-Notes-to-QUIZ
-# Quizzer 📄➜❓
+# Quizzer
 
 **Turn your PDFs and PowerPoints into quizzes — instantly.**
 
@@ -108,4 +108,4 @@ MIT License — feel free to use and modify.
 
 ## Author
 
-Built by **Tat** · [@your_twitter](https://twitter.com/your_twitter)
+Built by **Tat**
